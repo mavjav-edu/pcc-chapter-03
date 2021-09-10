@@ -3,7 +3,7 @@
 In this chapter and the next you’ll learn what lists are and how to
 start working with the elements in a list.
 
-<img src="https://media.giphy.com/media/R0nn6JhamSFd2LlP6B/giphy.gif" width="320vw">
+<img src="https://i.giphy.com/media/R0nn6JhamSFd2LlP6B/giphy.webp" width="320vw"/>
 
 Lists allow you to store sets
 of information in one place, whether you have just a few items or
